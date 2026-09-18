@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Pure.Diagram.RelationalModel.Abstractions.Serialization.System.Tests/Pure.Diagram.RelationalModel.Abstractions.Serialization.System.Tests.csproj" />
+  </Folder>
+  <Project Path="Pure.Diagram.RelationalModel.Abstractions.Serialization.System/Pure.Diagram.RelationalModel.Abstractions.Serialization.System.csproj" />
+</Solution>
